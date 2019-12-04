@@ -19,7 +19,7 @@ def results_to_tsv(dict_abstracts, output_file, list_events):
 			output_file -> the file used to store the results
 			list_events -> the events used
 	"""
-	output_file.write("title \t doi \t event \t aopwikiID \t type \t localisation \t presence score \n")
+	output_file.write("title \t doi \t event \t type \t aopwikiID \t position \t weight \n")
 	for abstract in dict_abstracts:
 		if 'score' in abstract:
 			abst_title = abstract['title']
