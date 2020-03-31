@@ -5,7 +5,7 @@
 #------- WHAT IS AOPHELPFINDER? -------------
 
 #AOPhelpfinder 2 is an new version of AOPhelpfinder (Jean-Charles Carvaillo: https://github.com/jecarvaill/aop-helpFinder) based on text mining and parsing process on abstract. It links Key events, Molecular initiating event and adverse outcome and chemical throw abstract from pubmed. 
-#AOPhelpfinder 2 was implemented for Human Biomonintoring in Europe (HBM4EU) Work Package 13.1.
+#AOPhelpfinder2 was implemented for Human Biomonintoring in Europe (HBM4EU) Work Package 13.1.
 #HBM4EU has received funding from the European Union’s H2020 research and innovation programme under grant agreement No 733032.
 
 #------- LICENCE ---------------------------
