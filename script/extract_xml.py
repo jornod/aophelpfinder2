@@ -1,3 +1,5 @@
+# This file is adapted from https://github.com/titipata/pubmed_parser
+
 import sys
 import re
 import time
